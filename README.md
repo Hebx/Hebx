@@ -12,12 +12,12 @@ Hi, I'm Ihab Heb, Student at 42 Abu Dhabi.
 # Rank 1
 [Born2beroot](https://github.com/Hebx/Born2BeRoot) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ihormi/Born2beroot)](https://github.com/JaeSeoKim/badge42)
 
-[Get Next Line](https://github.com/Hebx/Get_Next_Line) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/Hebx/get_next_line)](https://github.com/JaeSeoKim/badge42)
+[Get Next Line](https://github.com/Hebx/Get_Next_Line) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ihormi/get_next_line)](https://github.com/JaeSeoKim/badge42)
 
-[Printf](https://github.com/Hebx/ft_printf) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/Hebx/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[Printf](https://github.com/Hebx/ft_printf) : [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/ihormi/ft_printf)](https://github.com/JaeSeoKim/badge42)
 
 # Github Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihormi&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihormi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebx&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
