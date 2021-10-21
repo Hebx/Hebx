@@ -21,3 +21,5 @@ Hi, I'm Ihab Heb, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 [![Hebx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=dracula)](https://github.com/Hebx)
 
 [![Hebx's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hebx&layout=compact&show_icons=true&theme=dracula)](https://github.com/Hebx)
+
+[![Hebx](https://badge42.herokuapp.com/api/stats/ihormi?coalition)](https://github.com/Hebx)
