@@ -18,6 +18,11 @@ Hi, I'm Ihab Heb, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 
 [Printf](https://github.com/Hebx/ft_printf) : [![ft_printf](https://badge42.herokuapp.com/api/project/ihormi/ft_printf)](https://github.com/Hebx/ft_printf)
 
+# Rank 2
+[Fract-ol](https://github.com/Hebx/fract-ol) : [![fract-ol](https://badge42.herokuapp.com/api/project/ihormi/fract-ol)](https://github.com/Hebx/fract-ol)
+
+[Minitalk](https://github.com/Hebx/minitalk) : [![minitalk](https://badge42.herokuapp.com/api/project/ihormi/minitalk)](https://github.com/Hebx/minitalk)
+
 # Github Stats
 
 [![Hebx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=dracula)](https://github.com/Hebx)
