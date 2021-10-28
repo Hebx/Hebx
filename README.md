@@ -6,7 +6,7 @@ Hi, I'm Ihab Heb, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 [![Piscine_42AD](https://badge42.herokuapp.com/api/stats/ihormi?cursus=C%20Piscine)](https://github.com/Hebx/Piscine_42AD)
 
 # 42 Cursus
-[![Hebx](https://badge42.herokuapp.com/api/stats/ihormi?cursus=42Cursus)](https://github.com/Hebx)[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&grade=hide&leet_logo=hide&login=ihormi)](https://github.com/Hebx)
+[![Hebx](https://badge42.herokuapp.com/api/stats/ihormi?cursus=42Cursus)](https://github.com/Hebx)[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=ihormi)](https://github.com/Hebx)
 
 # Rank 0
 [Libft](https://github.com/Hebx/Libft) : [![Libft](https://badge42.herokuapp.com/api/project/ihormi/Libft)](https://github.com/Hebx/Libft)
