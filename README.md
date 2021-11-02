@@ -24,6 +24,8 @@ Hi, I'm Ihab Heb, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 
 [Minitalk](https://github.com/Hebx/minitalk) : [![minitalk](https://badge42.herokuapp.com/api/project/ihormi/minitalk)](https://github.com/Hebx/minitalk)
 
+[Push_Swap](https://github.com/Hebx/push_swap) : [![minitalk](https://badge42.herokuapp.com/api/project/ihormi/push_swap)](https://github.com/Hebx/Push_Swap)
+
 # Github Stats
 
 [![Hebx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=dracula)](https://github.com/Hebx)
