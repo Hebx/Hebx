@@ -27,7 +27,7 @@ Hi, I'm Ihab Heb, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 [Push_Swap](https://github.com/Hebx/push_swap) : [![minitalk](https://badge42.herokuapp.com/api/project/ihormi/push_swap)](https://github.com/Hebx/Push_Swap)
 
 # Rank 3
-[Philosophers](https://github.com/Hebx/Philosophers) : [![Philosophers](https://badge42.herokuapp.com/api/project/ihormi/philosophers)](https://github.com/Hebx/Philosophers)
+[Philosophers](https://github.com/Hebx/Philosophers) : [![Philosophers](https://badge42.herokuapp.com/api/project/ihormi/Philosophers)](https://github.com/Hebx/Philosophers)
 
 # Github Stats
 
