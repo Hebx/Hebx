@@ -26,10 +26,12 @@ Hi, I'm Ihab Heb, Student at [42 Abu Dhabi](https://42abudhabi.ae/).
 
 [Minitalk](https://github.com/Hebx/minitalk) : [![minitalk](https://badge42.herokuapp.com/api/project/ihormi/minitalk)](https://github.com/Hebx/minitalk)
 
-[Push_Swap](https://github.com/Hebx/push_swap) : [![minitalk](https://badge42.herokuapp.com/api/project/ihormi/push_swap)](https://github.com/Hebx/Push_Swap)
+[Push_Swap](https://github.com/Hebx/push_swap) : [![push_swap](https://badge42.herokuapp.com/api/project/ihormi/push_swap)](https://github.com/Hebx/Push_Swap)
 
 # Rank 3
 [Philosophers](https://github.com/Hebx/Philosophers) : [![Philosophers](https://badge42.herokuapp.com/api/project/ihormi/Philosophers)](https://github.com/Hebx/Philosophers)
+
+[MiniShell](https://github.com/Hebx/MiniShell) : [![MiniShell](https://badge42.herokuapp.com/api/project/ihormi/minishell)](https://github.com/Hebx/MiniShell)
 
 # Github Stats
 
