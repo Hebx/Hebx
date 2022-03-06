@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Sapere%20Aude,%20I%27m%20Ihab%20Heb!%20%F0%9F%92%BB&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-[![42](https://badgen.net/badge/Born2Code/ihormi/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)  [42 Abu Dhabi](https://42abudhabi.ae/)
+[![42](https://badgen.net/badge/Born2Code/ihormi/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)
 
 <a href="https://app.daily.dev/Hebx"><img src="https://api.daily.dev/devcards/687fa210d013465e8ed421f5e65ef07d.png?r=cx1" width="300" alt="Ihab Heb's Dev Card"/>
 
