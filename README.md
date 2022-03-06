@@ -2,11 +2,11 @@
 
 [![42](https://badgen.net/badge/Born2Code/ihormi/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)
 <p align="center">
-<a href="https://dev.to/heb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heb" height="30" width="40" /></a>
 <a href="https://twitter.com/lordheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lordheb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ihab-hormi-552b63219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ihab-hormi-552b63219" height="30" width="40" /></a>
+<a href="https://dev.to/heb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heb" height="30" width="40" /></a>
 <a href="https://hashnode.com/@heb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@heb" height="30" width="40" /></a>
-</p>
+ </p>
 
 <a href="https://app.daily.dev/Hebx"><img src="https://api.daily.dev/devcards/687fa210d013465e8ed421f5e65ef07d.png?r=cx1" width="300" alt="Ihab Heb's Dev Card"/>
 
