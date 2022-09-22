@@ -9,7 +9,6 @@
 
 [![42](https://badgen.net/badge/Born2Code/ihormi/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)
 
-<a href="https://app.daily.dev/Hebx"><img src="https://api.daily.dev/devcards/687fa210d013465e8ed421f5e65ef07d.png?r=cx1" width="300" alt="Ihab Heb's Dev Card"/>
 
 <!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=ihormi)](https://github.com/Hebx) -->
 <!-- # 42 Piscine
