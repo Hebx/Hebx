@@ -20,7 +20,7 @@
 
 ### ❓ About Me
 
-👨‍💻 - I'am a Freelance BlockChain & Full Stack Web3 Developer, Security researcher, Theoretical Physicist and Student at 42 Network 
+👨‍💻 - I'am a Freelance BlockChain & Full Stack Web3 Developer, Security researcher, Theoretical Physicist and CypherPunk.
 
 ⏳ - As being a visionary, futurist and digital nomad, I want to contribute to the manifestation of the global distributed community and the conscious empowered contribution to the digital public goods. empowering mindset for the new age paradigm shift, raising awareness of transparent collaboration and adoption of open source code.
 
