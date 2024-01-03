@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Sapere%20Aude,%20I%27m%20Ihab%20Heb!%20%F0%9F%92%BB&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hey,%20I%27m%20Ihab%20Heb!%20%F0%9F%92%BB&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
 <p align="left">
     <a href="https://twitter.com/LordHeb" target="_blank"><img alt="Twitter"
@@ -16,13 +16,11 @@
 </p>
 
 
-[![42](https://badgen.net/badge/Born2Code/ihormi/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://www.42network.org/)
-
 ### ❓ About Me
 
-👨‍💻 - I'am a Freelance BlockChain & Full Stack Web3 Developer, Security researcher, Theoretical Physicist and CypherPunk.
+👨‍💻 - I'am a Blockend Web3 Developer, Security researcher, Theoretical Metaphysicist and CypherPunk.
 
-⏳ - As being a visionary, futurist and digital nomad, I want to contribute to the manifestation of the global distributed community and the conscious empowered contribution to the digital public goods. empowering mindset for the new age paradigm shift, raising awareness of transparent collaboration and adoption of open source code.
+⏳ - As being a visionary, futurist and digital nomad, I contribute to the manifestation of the global distributed community and the conscious mindful involvement to the digital public goods. empowering mindset for the new age paradigm shift, raising awareness of transparent collaboration and adoption of open source code.
 
 👽 - I envision an open borderless space of creativity and clarity, a world of new layers of possibilities were people can exchange values globally and freely without gatekeepers or boundaries, an InterConnected Web where we sovereignly Thrive!
 
