@@ -11,8 +11,6 @@
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ihab-hormi-552b63219" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://hashnode.com/@Heb" target="_blank"><img alt="Hashnode"
-        src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
 
@@ -28,6 +26,7 @@
 
 📫 - Email me at [ihab.hormi@hotmail.com](mailto:ihab.hormi@hotmail.com) or [schedule a 1:1 call](https://calendly.com/hebx/30min)
 
+<!-- 
 
 ### 🚀 Skills
 
@@ -141,7 +140,6 @@
         src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
 
 </p>
-<!-- 
 ### 🔎 Stats
 
  [![Hebx's GitHub stats](https://github-readme-stats.vercel.app/api?username=hebx&show_icons=true&theme=tokyonight)](https://github.com/Hebx)
