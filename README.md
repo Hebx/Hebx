@@ -14,7 +14,7 @@
 
 ### ❓ About Me
 
-👨‍💻 - I'am a Blockend Web3 Developer, Security researcher, Theoretical Metaphysicist and CypherPunk.
+👨‍💻 -  🌐 ₿lockchain Developer & Security Researcher 🛡️
 
 ⏳ - As being a visionary, futurist and digital nomad, I contribute to the manifestation of the global distributed community and the conscious mindful involvement to the digital public goods. empowering mindset for the new age paradigm shift, raising awareness of transparent collaboration and adoption of open source code.
 
