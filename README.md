@@ -22,7 +22,7 @@
 
 💎 - Join me, Anon, on this path that very few walk. Join me in manifesting Web3 and the Cypherpunk Movement, May We soar to new heights and have our name echoed through the decentralized web.
 
-📫 - Email me at [ihab.hormi@hotmail.com](mailto:ihab.hormi@hotmail.com) or [schedule a 1:1 call](https://calendly.com/hebx/30min)
+📫 - Email me at [ihab.hormi@hotmail.com](mailto:ihab.hormi@hotmail.com) or [schedule a 1:1 call](https://calendly.com/ihab-heb/30min)
 
 <!-- 
 
