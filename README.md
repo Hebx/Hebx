@@ -1,4 +1,4 @@
-[<img width="100%" alt="header" src="https://github.com/user-attachments/assets/2bb81cb4-25bb-423a-b0ff-78cf4c75575f" />](https://lordheb.com)
+[<img width="100%" alt="header" src="./header.png" />](https://lordheb.com)
 
 <p align="left">
     <a href="https://x.com/LordHeb" target="_blank"><img alt="X" 
